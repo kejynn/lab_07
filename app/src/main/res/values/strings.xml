@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="KeyTextView">Key</string>
+    <string name="ValueTextView">Value</string>
+    <string name="InsertButton">Insert</string>
+    <string name="UpdateButton">Update</string>
+    <string name="SelectButton">Select</string>
+    <string name="DeleteButton">Delete</string>
+</resources>
